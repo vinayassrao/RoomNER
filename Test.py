@@ -40,7 +40,7 @@ def main(model=None):
 				temp.clear()
 				if ent.label_ == 'ROOM':
 					ROOM.append(ent.text)
-					print(ROOM)
+					#print(ROOM)
 				if ent.label_ == 'CONNECTION' :
 
 					
