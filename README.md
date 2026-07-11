@@ -54,7 +54,7 @@ cd RoomNER
 
 # 2. Create a virtual environment (Python 3.7 or 3.8 recommended)
 python -m venv venv
-source venv/bin/activate        # Windows: venv\\Scripts\\activate
+source venv/bin/activate        # Windows: venv\Scripts\activate
 
 # 3. Install pinned dependencies
 pip install -r requirements.txt
