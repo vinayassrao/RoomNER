@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+Table/
+saved_model/
+*.pickle
+.DS_Store
